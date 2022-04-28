@@ -4,3 +4,4 @@
 
 ### [Connect with me 💬](https://bio.link/kunalk) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
+new statement added to use fetch & merge
